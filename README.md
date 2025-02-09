@@ -45,7 +45,7 @@ I am passionate about bridging markets, optimizing global trade flows, and secur
 - Reduced procurement costs by 8% through strategic sourcing and negotiations.
 - Leveraged SAP, Power BI, and Excel to enhance supply chain efficiency and inventory management.
 
-### Import/Export & Customs Assistant, Freight Forwarder Name , Morocco
+### Import/Export & Customs Assistant, Tanger Med Zones , Morocco
 
 - **Duration:** 6 months
 - Processed and verified customs documentation, ensuring regulatory compliance.
