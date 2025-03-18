@@ -45,19 +45,19 @@ I am passionate about bridging markets, optimizing global trade flows, and secur
 - Reduced procurement costs by 8% through strategic sourcing and negotiations.
 - Leveraged SAP, Power BI, and Excel to enhance supply chain efficiency and inventory management.
 
-### Import/Export & Customs Assistant, Tanger Med Zones , Morocco
+### Assistant in Customs & Transit – Import/Export  , Morocco
 
 - **Duration:** 6 months
-- Processed and verified customs documentation, ensuring regulatory compliance.
-- Monitored logistics operations, resolving disputes and minimizing clearance delays.
-- Conducted market research on import/export regulations to optimize trade routes.
+- Reduced customs clearance time by 15% through improved document processing.
+- Managed import/export documentation (AWB, Bill of Lading, DAU, EUR.1), reducing litigation cases by 30%.
+- Successfully resolved a €50,000 customs blockage within 48 hours.
 
-### Trade Finance & International Business Analyst , BMCE Bank, Morocco
+### Transport Risk & Insurance Analyst , Morocco
 
 - **Duration:** 6 months
-- Managed trade finance transactions (Letters of Credit, Documentary Collections) with full regulatory compliance.
-- Analyzed cross-border payment risks, improving transaction security and efficiency.
-- Assisted corporate clients in structuring trade finance solutions, reducing transaction delays by 15%.
+- Accelerated claim processing by 15 days through optimized risk management.
+- Strengthened contract policies, reducing disputes and securing transactions.
+- Managed a complex €80,000 claim, ensuring rapid compensation through enhanced documentation.
 
 ## 🛠 Skills
 
