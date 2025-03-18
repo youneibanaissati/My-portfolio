@@ -82,11 +82,11 @@ I am passionate about bridging markets, optimizing global trade flows, and secur
 
 ### Outils & Logiciels Maîtrisés
 
-- **SAP**: Gestion des achats et de la supply chain
-- **Power BI**: Analyse de données et reporting
-- **Excel Avancé**: Modélisation financière et optimisation des coûts
-- **Trade Finance Tools**: Gestion des crédits documentaires
-- **ERP & WMS**: Gestion des flux logistiques
+- **SAP**: Procurement and supply chain management
+- **Power BI**: Data analysis and reporting
+- **Excel Avancé**: Financial modeling and cost optimization
+- **Trade Finance Tools**: Documentary credit management
+- **ERP & WMS**: Logistics flow management
 
 ### Interpersonal Skills
 
